@@ -1,1 +1,1 @@
-Login Test Case
+Password Test Case
